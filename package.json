@@ -1,6 +1,7 @@
 {
   "name": "three-js",
   "version": "0.1.0",
+  "homepage": "https://hejthere.github.io/three-js-universe",
   "private": true,
   "dependencies": {
     "@react-three/cannon": "^4.6.1",
