@@ -6,14 +6,16 @@ import EarthMap from "./Texture/earthmap1k.jpg";
 import NormalMap from "./Texture/earthspec1k.jpg";
 
 const Earth = () => {
-  const ref = useRef();
+  const ref = useRef<THREE.Mesh>(null!);
 
   const [colorMap, EarthNormalMap] = useLoader(TextureLoader, [
     EarthMap,
     NormalMap,
   ]);
 
-  useFrame(() => (ref.current.rotation.y += 0.01));
+  useFrame(() => {
+    ref.current.rotation.y += 0.01;
+  });
 
   return (
     <Sphere position={[1, 1, 2]} args={[15, 32, 32]} ref={ref}>
