@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/three-js-universe/static/css/main.073c9b0a.css",
+    "main.js": "/three-js-universe/static/js/main.b8df54e5.js",
+    "static/js/787.0c89f0cf.chunk.js": "/three-js-universe/static/js/787.0c89f0cf.chunk.js",
+    "static/media/moonmap2k.jpg": "/three-js-universe/static/media/moonmap2k.951e76285640206acdba.jpg",
+    "static/media/moonbump2k.jpg": "/three-js-universe/static/media/moonbump2k.92d9dc4cf1791f8a828b.jpg",
+    "static/media/earthmap1k.jpg": "/three-js-universe/static/media/earthmap1k.f3d3516ad626def9203b.jpg",
+    "static/media/earthspec1k.jpg": "/three-js-universe/static/media/earthspec1k.de08296c47c6b9edd5c0.jpg",
+    "index.html": "/three-js-universe/index.html",
+    "main.073c9b0a.css.map": "/three-js-universe/static/css/main.073c9b0a.css.map",
+    "main.b8df54e5.js.map": "/three-js-universe/static/js/main.b8df54e5.js.map",
+    "787.0c89f0cf.chunk.js.map": "/three-js-universe/static/js/787.0c89f0cf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.b8df54e5.js"
+  ]
+}
